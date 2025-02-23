@@ -1,0 +1,27 @@
+body {
+  background-color: khaki
+}
+
+#resume-title {
+  text-align: center;
+}
+
+#resume-first-job{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 4px solid ivory;
+}
+
+#resume-second-job{
+  font-family: 'Calligraphy', 'Brush Script MT', cursive;
+  border: 4px solid magenta;
+}
+
+#resume-third-job{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 4px solid lightblue;
+}
+
+#resume-first-job-title, #resume-second-job-title, #resume-third-job-title {
+  font-size: 20px;
+  color: blue;
+}
